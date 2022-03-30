@@ -1,0 +1,15 @@
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\bin\Debug\net6.0\teste.exe
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\bin\Debug\net6.0\teste.deps.json
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\bin\Debug\net6.0\teste.dll
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\bin\Debug\net6.0\teste.pdb
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.dll
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\refint\teste.dll
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.pdb
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+C:\Users\gabriel_feliciano\Desktop\Projects\Balta Course\teste\obj\Debug\net6.0\ref\teste.dll
